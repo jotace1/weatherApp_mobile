@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jotace1/GoRestaurant-mobile">
-    <img src="assets/Logo.png" alt="Logo"  height="100">
+    <img src="assets/print.png" alt="Logo"  height="100">
   </a>
 
   <h3 align="center">Weather mobile app</h3>
@@ -47,7 +47,7 @@
 ## :mag_right: About The Project
 
 <p align="center">
-<img src="assets\print.png" alt="Logo" width="550" height="350">
+<img src="assets\print.png" alt="Logo" width="350" height="550">
 </p>
 
 ### 💻 Built With
